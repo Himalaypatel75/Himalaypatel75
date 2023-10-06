@@ -12,7 +12,7 @@
 <!-- Introduction -->
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
-- :seedling: I’m currently learning TenserFlow (machine learning and artificial intelligence).
+- :seedling: I’m currently learning TenserFlow (ML and AI).
 - :telescope: I’m currently working as a Backend Developer.
 
 ## Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
