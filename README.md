@@ -14,7 +14,6 @@
 
 - :seedling: I’m currently learning TenserFlow (AI and ML).
 - :telescope: I’m currently working as a Backend Developer.
-- :📈: [Checkout Progress](https://github.com/users/Himalaypatel75/projects/3/views/1?layout=board)
 
 ## Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
