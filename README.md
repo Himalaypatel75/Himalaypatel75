@@ -14,6 +14,7 @@
 
 - :seedling: I’m currently learning TenserFlow (AI and ML).
 - :telescope: I’m currently working as a Backend Developer.
+- :projects: [Checkout My Latest Resume](https://github.com/Himalaypatel75/Himalaypatel75/blob/86b2820fb9ed228d47ce059f524ff51356f33476/Himalay-Patel-Python-Django-OpenAI.pdf)
 
 ## Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
